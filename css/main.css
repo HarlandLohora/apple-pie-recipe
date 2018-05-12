@@ -27,3 +27,23 @@ header{
 	margin-left:40%;
 	padding-top: 12%;
 }
+
+footer{
+    background-color: orange;
+}
+#info{
+    text-align: center;
+}
+
+footer a{
+    color: white;
+    text-decoration: none;
+    padding: 16px;
+    font-size: 2em;
+}
+
+
+footer li{
+    list-style: none;
+    display: inline;
+}
